@@ -55,3 +55,6 @@ function removeBook(index) {
   createLibrary();
 }
 form.addEventListener('submit', addBook);
+
+createLibrary();
+removeBook();
