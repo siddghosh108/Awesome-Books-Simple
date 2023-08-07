@@ -71,7 +71,7 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
  
- [Live Demo Link](https://mariamosman11.github.io/Awesome-Books/)
+ [Live Demo Link](https://siddghosh108.github.io/Awesome-Books-Simple/)
  
 
 
